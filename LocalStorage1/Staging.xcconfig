@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  LocalStorage1
+//
+//  Created by Hashfi Alfian Ciyuda on 19/10/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+PRODUCT_BUNDLE_IDENTIFIER = "com.hac.LocalStorage.dev"
+BASE_URL = "dummy.restapiexample.com"
+PRODUCT_NAME = LocalStorage(STG)
